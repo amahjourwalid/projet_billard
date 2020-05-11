@@ -22,6 +22,6 @@ the plan of this project is:
 
 Firstly, create a simple case of square Billiard with no friction and verified the Descartes rules and to  play this game we should create a words associated to trajectories, starting wit a simple word then when the ball hit the up or down part we add an H (for horizontal) and when the ball touch the left or right part, add a V (for vertical). 
 
-Secondly, create flat torus billaird.
+Secondly, create flat torus billard.
 
 Finally, provide elliptic case.
