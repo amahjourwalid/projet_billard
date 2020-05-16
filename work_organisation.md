@@ -3,7 +3,9 @@ In our plan we will follow the tasks  bellow to presenting our project.
 Square case:
 
 1: Creating a simulation of a pool containing just one ball, the purpose is to make a videos showing  it's trajectory, for that we will proceed with two different methods, first one using (matplotlib), and the second using (TKinter ).
+ 
  2: Making of a code that will count the times that the ball hit the counters and save it in a string (h) for horizontal and (v) for vertical.
+ 
  3: Making a statistical analysis for different set of the string
 
 Flat Torus case:
