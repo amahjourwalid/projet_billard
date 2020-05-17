@@ -27,4 +27,3 @@ test = "vh"
 button = False
 
 
-def calculateLinePosition():
